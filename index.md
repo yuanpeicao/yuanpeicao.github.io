@@ -18,7 +18,7 @@
 <td width="1026" id="layout-content">
 <div id="toptitle">
 <h1 class="style1">Yuanpei Cao </h1>
-<img src="postdoc.JPG" alt="postdoc" width="250px" height="250px" />
+<img src="postdoc.jpg" alt="postdoc" width="26px" height="449px" />
 <h2 class="style1">About Me</h2>
 <ul>
 I am a Data Scientist on the Payments team at <a href="https://www.airbnb.ca/careers/departments/data-science-analytics"> Airbnb (San Francisco)</a>, where I work on machine learning models for payment system. Previously, I worked in AdColony (Seattle), where I designed recommeder system for mobile advertisement.<p>
