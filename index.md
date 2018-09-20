@@ -55,5 +55,6 @@ Kaggle homepage:
 <li><a href="https://arxiv.org/pdf/1706.02380.pdf">Multi-sample Estimation of Bacterial Composition Matrix in Metagenomics Data</a> (with Zhang, A. and Li, H)<br>
 <i>Biometrika, under second-round review, arXiv:1706.02380.</i></li>
 <li>MOTO: A Multi-Objective Trajectory Optimization Method for Finding Sequential Activity Locations for Multiple Moving Objects along Road Networks</a> (with Feng, X., Wang, S., Gao, S., and Murray, A.T)<br>
+<i>Environment and Planning B: Urban Analytics and City Science, under review.</i></li>
 </ul>
 </html>
