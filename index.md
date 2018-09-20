@@ -33,11 +33,11 @@ In August 2016, I received a Ph.D. from the Department of Mathematics at <a href
 </ul>
 <h2 class="style1">Papers</h2>
 <ul>
-<li>Large Covariance Estimation for Compositional Data via Composition-Adjusted Thresholding (with Lin, W. and Li, H)<br>
+<li><a href="https://www.tandfonline.com/doi/abs/10.1080/01621459.2018.1442340/"> Large Covariance Estimation for Compositional Data via Composition-Adjusted Thresholding (with Lin, W. and Li, H)<br>
 <i>Journal of the American Statistical Association (JASA) (2018)</i></li>
-<li>Two-sample Mean Tests for High Dimensional Compositional Data (with Lin, W. and Li, H)<br>
+<li><a href="https://academic.oup.com/biomet/article-abstract/105/1/115/4591648?redirectedFrom=fulltext"> Two-sample Mean Tests for High Dimensional Compositional Data (with Lin, W. and Li, H)<br>
 <i>Biometrika (2018), 105(1): 115-132.</i></li>
-<li>Multi-sample Estimation of Bacterial Composition Matrix in Metagenomics Data (with Zhang, A. and Li, H)<br>
+<li><a href="https://arxiv.org/pdf/1706.02380.pdf">Multi-sample Estimation of Bacterial Composition Matrix in Metagenomics Data (with Zhang, A. and Li, H)<br>
 <i>Biometrika, under second-round review, arXiv:1706.02380.</i></li>
 <li>MOTO: A Multi-Objective Trajectory Optimization Method for Finding Sequential Activity Locations for Multiple Moving Objects along Road Networks (with Feng, X., Wang, S., Gao, S., and Murray, A.T)<br>
 </ul>
