@@ -31,12 +31,6 @@ In August 2016, I received a Ph.D. from the Department of Mathematics at <a href
 <li>M.S. in Statistics, Wharton School (2011-2016)</li>
 <li>B.Sc. (Honours) in Applied Mathematics, <a href="http://www.fudan.edu.cn/en/"> Fudan University (2007-2011)</li>
 </ul>
-<h2 class="style1"> Honors</h2>
-<ul>
-<li>Natural Sciences and Engineering Research Council of Canada Postgraduate Scholarships (2011-2015)</li>
-<li>Arvanitidis Stanford Graduate Fellowship in Memory of William Linvill (2011-2014)</li>
-<li>Governor General's Academic Medal, Queen's University (2011) and Riverside Secondary School (2007)</li>
-</ul>
 <h2 class="style1">Papers</h2>
 <ul>
 <li>Large Covariance Estimation for Compositional Data via Composition-Adjusted Thresholding (with Lin, W. and Li, H)<br>
