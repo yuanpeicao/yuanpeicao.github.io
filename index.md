@@ -22,7 +22,17 @@
 <h2 class="style1">About Me</h2>
 <ul>
 I am a Data Scientist on the Payments team at <a href="https://www.airbnb.ca/careers/departments/data-science-analytics"> Airbnb (San Francisco)</a>, where I work on machine learning models for payment system. Previously, I worked in AdColony (Seattle), where I designed recommeder system for mobile advertisement.<p>
+  
 In August 2016, I received a Ph.D. from the Department of Mathematics at <a href="https://www.upenn.edu/"> University of Pennsylvania</a>, specializing in <a href="https://www.amcs.upenn.edu/"> Applied Mathematics and Computational Science </a>. My advisor was Prof. <a href="https://www.med.upenn.edu/apps/faculty/index.php/g275/p4879509"> Hongzhe Li</a>, and my thesis was titled <i>Statistical Methods for High Dimensional Count and Compositional Data with Applications to Microbiome Studies</i>.<p>
+  
+Linkedin:
+<a href="https://www.linkedin.com/in/yuanpei-cao-792b103b/"> https://www.linkedin.com/in/yuanpei-cao-792b103b/</a>
+
+Google Scholar:
+<a href="https://scholar.google.com/citations?user=NeDKHAcAAAAJ&hl=en"> https://scholar.google.com/citations?user=NeDKHAcAAAAJ&hl=en</a>
+
+Kaggle homepage:
+<a href="https://www.kaggle.com/caoyuanpei"> https://www.kaggle.com/caoyuanpei</a>
   
 </ul>
 <h2 class="style1"> Education</h2>
