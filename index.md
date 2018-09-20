@@ -33,7 +33,7 @@ In August 2016, I received a Ph.D. from the Department of Mathematics at <a href
 </ul>
 <h2 class="style1">Papers</h2>
 <ul>
-<li><a href="https://www.tandfonline.com/doi/abs/10.1080/01621459.2018.1442340/"> Large Covariance Estimation for Compositional Data via Composition-Adjusted Thresholding</a> (with Lin, W. and Li, H)<br>
+<li><a href="https://www.tandfonline.com/doi/abs/10.1080/01621459.2018.1442340"> Large Covariance Estimation for Compositional Data via Composition-Adjusted Thresholding</a> (with Lin, W. and Li, H)<br>
 <i>Journal of the American Statistical Association (JASA) (2018)</i></li>
 <li><a href="https://academic.oup.com/biomet/article-abstract/105/1/115/4591648?redirectedFrom=fulltext"> Two-sample Mean Tests for High Dimensional Compositional Data</a> (with Lin, W. and Li, H)<br>
 <i>Biometrika (2018), 105(1): 115-132.</i></li>
